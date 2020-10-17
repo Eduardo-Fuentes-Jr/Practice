@@ -116,16 +116,7 @@ ul {list-style: none;}
         color: #fff;
     }
 }
- @media (max-width: 550px) {
-    .nav-bar {
-        height: 5vh;
-    }
-    .box-container { height: 95vh;}
-    .nav-bar ul li a {
-        font-size: 18px;
-        letter-spacing: 3px;
-    }
- }
+ 
 
 /* 
 ABOUT SECTION
